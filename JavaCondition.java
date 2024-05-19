@@ -6,7 +6,8 @@
  *      顺序控制
  *      分支控制
  *          if...else
- *          switch...case
+ *          if...else if...else
+ *          switch...case break...default
  *      循环控制
  *          for
  *          while
