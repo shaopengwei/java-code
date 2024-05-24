@@ -12,7 +12,7 @@
 
 import java.util.Scanner;
 
-public class javaScanner {
+public class JavaScanner {
     public static void main(String[] args) {
         Scanner myScanner = new Scanner(System.in);
         System.out.println("请输入名字：");
